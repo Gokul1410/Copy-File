@@ -26,8 +26,8 @@ End of the program
 ## PROGRAM:
 
 ```
-#Developed by: SANTHOSH KUMAR R
-#Register Number: 212223240153
+#Developed by: GOKUL C
+#Register Number: 212223240040
 
 def copy(fname,newfile):
     with open(fname) as fp:
